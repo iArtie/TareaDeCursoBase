@@ -1,0 +1,12 @@
+C:\Users\BitZ\Desktop\SamArt2M1\SamArt2M1\Applications\bin\Debug\net5.0\Applications.deps.json
+C:\Users\BitZ\Desktop\SamArt2M1\SamArt2M1\Applications\bin\Debug\net5.0\Applications.dll
+C:\Users\BitZ\Desktop\SamArt2M1\SamArt2M1\Applications\bin\Debug\net5.0\ref\Applications.dll
+C:\Users\BitZ\Desktop\SamArt2M1\SamArt2M1\Applications\bin\Debug\net5.0\Applications.pdb
+C:\Users\BitZ\Desktop\SamArt2M1\SamArt2M1\Applications\obj\Debug\net5.0\Applications.csproj.AssemblyReference.cache
+C:\Users\BitZ\Desktop\SamArt2M1\SamArt2M1\Applications\obj\Debug\net5.0\Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BitZ\Desktop\SamArt2M1\SamArt2M1\Applications\obj\Debug\net5.0\Applications.AssemblyInfoInputs.cache
+C:\Users\BitZ\Desktop\SamArt2M1\SamArt2M1\Applications\obj\Debug\net5.0\Applications.AssemblyInfo.cs
+C:\Users\BitZ\Desktop\SamArt2M1\SamArt2M1\Applications\obj\Debug\net5.0\Applications.csproj.CoreCompileInputs.cache
+C:\Users\BitZ\Desktop\SamArt2M1\SamArt2M1\Applications\obj\Debug\net5.0\Applications.dll
+C:\Users\BitZ\Desktop\SamArt2M1\SamArt2M1\Applications\obj\Debug\net5.0\ref\Applications.dll
+C:\Users\BitZ\Desktop\SamArt2M1\SamArt2M1\Applications\obj\Debug\net5.0\Applications.pdb
